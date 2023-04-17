@@ -9,3 +9,7 @@
 $ sudo apt update
 $ sudo apt upgrade
 ```
+
+- [X] Start GitHub Skills course
+- [X] Create pull request
+- [ ] Merge pull request
