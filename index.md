@@ -4,3 +4,8 @@
 ###### This is an H6 header
 
 ![Majestic bald eagle](https://images.freeimages.com/images/large-previews/b65/bald-eagle-1635769.jpg)
+
+```
+$ sudo apt update
+$ sudo apt upgrade
+```
